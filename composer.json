@@ -1,0 +1,16 @@
+{
+    "name": "andybeak/purifier-demo",
+    "description": "This project demonstrates using HTML purifier",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrew Beak",
+            "email": "andy.beak@gmail.com"
+        }
+    ],
+    "require": {
+        "ezyang/htmlpurifier": "^4.11",
+        "xemlock/htmlpurifier-html5": "^0.1.11"
+    }
+}
